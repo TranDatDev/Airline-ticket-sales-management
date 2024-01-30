@@ -1,0 +1,10 @@
+(Pascal Case)
+- Không gian riêng (Namespaces)
+- Lớp (Class)
+- Phương thức (Method)
+
+(Camel Case)
+- Biến (variables)
+- Tham số (Parameters)
+
+riêng DTO,DAO và các hằng số phải luôn viết hoa 
